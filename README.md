@@ -1,4 +1,4 @@
-# wordle-clone
+# wordle-clone-python
 
 Python script that lets the user play Wordle.
 
